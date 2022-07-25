@@ -1,0 +1,23 @@
+@media (min-width:319px) and (max-width:576px){
+    .review-item{
+        display:block;
+        height:30rem;
+        flex-wrap: wrap;
+        align-content: center;
+
+    }
+    .review-item img{
+        position:relative;
+        left:20%;
+        margin:auto;
+    }
+    .banner h2 strong{
+        display:block;
+        margin-left:-20px;
+        font-size:2rem;
+    }
+}
+@media (min-width:319px) and (max-width:576px){
+    
+
+}
